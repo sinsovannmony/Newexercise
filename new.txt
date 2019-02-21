@@ -1,0 +1,9 @@
+                  c program assignment
+
+
+1. Write the program to find the given number is odd or even.
+
+2. Write the program to find the char that is vowel or consinant.
+
+3. Program to find the ascii of the given character.
+ 
