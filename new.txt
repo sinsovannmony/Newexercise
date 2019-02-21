@@ -1,9 +1,11 @@
                   c program assignment
 
 
-1. Write the program to find the given number is odd or even.
+1. Write the program to find the given number is odd or even. I don't 
+know.
 
-2. Write the program to find the char that is vowel or consinant.
+2. Write the program to find the char that is vowel or consinant. I 
+don't know.
 
-3. Program to find the ascii of the given character.
+3. Program to find the ascii of the given character. I don't know.
  
